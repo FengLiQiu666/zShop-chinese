@@ -1,0 +1,369 @@
+items:
+  '1':
+    items:
+      '1':
+        type: ITEM
+        item:
+          id: 3
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '2':
+        type: ITEM
+        item:
+          id: 1
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '3':
+        type: ITEM
+        item:
+          id: 17
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '4':
+        type: ITEM
+        item:
+          id: 2
+          data: 0
+          enchants:
+            - DAMAGE_ALL,5
+          flags:
+            - HIDE_ENCHANTS
+        buyPrice: 30.0
+        sellPrice: 2.0
+        commands:
+          - "bc %player% 购买了 x%amount% %item% 在商店中"
+      '5':
+        type: ITEM
+        item:
+          id: 12
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '6':
+        type: ITEM
+        item:
+          id: 49
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '7':
+        type: ITEM
+        item:
+          id: 155
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '8':
+        type: ITEM
+        item:
+          id: 79
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '9':
+        type: ITEM
+        item:
+          id: 174
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '10':
+        type: ITEM
+        item:
+          id: 46
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '11':
+        type: ITEM
+        item:
+          id: 4
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '12':
+        type: ITEM
+        item:
+          id: 13
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+  '2':
+    items:
+      '1':
+        type: ITEM
+        item:
+          id: 296
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '2':
+        type: ITEM
+        item:
+          id: 392
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '3':
+        type: ITEM
+        item:
+          id: 391
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '4':
+        type: ITEM
+        item:
+          id: 354
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+  '3':
+    items:
+      '1':
+        type: ITEM
+        item:
+          id: 368
+          data: 0
+          stack: 16
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '2':
+        type: ITEM
+        item:
+          id: 367
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '3':
+        type: ITEM
+        item:
+          id: 375
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '4':
+        type: ITEM
+        item:
+          id: 369
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '5':
+        type: ITEM
+        item:
+          id: 287
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '6':
+        type: ITEM
+        item:
+          id: 341
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '7':
+        type: ITEM
+        item:
+          id: 344
+          data: 0
+          stack: 16
+        buyPrice: 30.0
+        sellPrice: 2.0
+  '4':
+    items:
+      '1':
+        type: ITEM
+        item:
+          id: 322
+          data: 0
+          stack: 16
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '2':
+        type: ITEM
+        item:
+          id: 322
+          data: 1
+          stack: 16
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '3':
+        type: ITEM
+        item:
+          id: 349
+          data: 0
+          stack: 16
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '4':
+        type: ITEM
+        item:
+          id: 349
+          data: 1
+          stack: 16
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '5':
+        type: ITEM
+        item:
+          id: 349
+          data: 2
+          stack: 16
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '6':
+        type: ITEM
+        item:
+          id: 349
+          data: 3
+          stack: 16
+        buyPrice: 30.0
+        sellPrice: 2.0
+  '5':
+    items:
+      '1':
+        type: ITEM
+        item:
+          id: 331
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '2':
+        type: ITEM
+        item:
+          id: 29
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '3':
+        type: ITEM
+        item:
+          id: 33
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '4':
+        type: ITEM
+        item:
+          id: 356
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '5':
+        type: ITEM
+        item:
+          id: 404
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '6':
+        type: ITEM
+        item:
+          id: 154
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+  '6':
+    items:
+      '1':
+        type: ITEM
+        item:
+          id: 263
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '2':
+        type: ITEM
+        item:
+          id: 263
+          data: 1
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '3':
+        type: ITEM
+        item:
+          id: 265
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '4':
+        type: ITEM
+        item:
+          id: 266
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '5':
+        type: ITEM
+        item:
+          id: 264
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '6':
+        type: ITEM
+        item:
+          id: 351
+          data: 4
+        buyPrice: 30.0
+        sellPrice: 2.0
+      '7':
+        type: ITEM
+        item:
+          id: 388
+          data: 0
+        buyPrice: 30.0
+        sellPrice: 2.0
+  '7':
+    items:
+      '1':
+        type: UNIQUE_ITEM
+        item:
+          id: 303
+          data: 0
+          name: "&e 显示名"
+          lore:
+            - ""
+            - "&f» &7购买价格为 &c%price%$"
+            - ""
+        commands:
+          - "pex 玩家 %player% 被设置成管理员"
+          - "bc &2%player% &a成为管理员"
+        slot: 22
+        useConfirm: true
+        buyPrice: 30.0        
+  '8':
+    items:
+      '1':
+        type: ITEM
+        item:
+          id: 52
+          data: 0
+          name: "&2僵尸猪人"
+          lore:
+            - "§f僵尸猪人蛋"          
+        economy: PLAYERPOINT
+        buyPrice: 500.0
+        sellPrice: 0.0
+        give: false
+        commands:
+          - "spawners give %player% pigzombie"      
+      '2':
+        type: ITEM
+        item:
+          id: 52
+          data: 0
+          name: "&2牛"
+          lore:
+            - "§f牛蛋"
+        economy: PLAYERPOINT
+        buyPrice: 10
+        sellPrice: 0.0
+        give: false
+        commands:
+          - "spawners give %player% cow"

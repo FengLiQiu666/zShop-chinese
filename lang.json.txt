@@ -1,0 +1,140 @@
+{
+  "prefix": "§8[§b商店§8]",
+  "commandHelp": "§a» §6%syntaxe% §7- §e%description%",
+  "noPermission": "§c你没有权限",
+  "syntaxeError": "§c指令错误，参考§7: §a%command%",
+  "commandError": "§c此参数不存在",
+  "onlinePlayerCanUse": "§c你不是一名玩家",
+  "shopInventoryItem": "§a%category% §e%page%§7/§6%maxPage%",
+  "shopInventoryUniqueItem": "§a%category%",
+  "canSell": "§c无法出售",
+  "canBuy": "§c无法购买",
+  "sellItem": "§a已出售 §6x%amount% %item%§a 价格为: §6%price%§a%currency% !",
+  "buyItem": "§a已出售 §6x%amount% %item%§a 价格为: §6%price%§a%currency% !",
+  "buyUniqueItem": "§a已购买 §6%item%§a 花费为: §6%price%§a%currency% !",
+  "notEnouhtItems": "§c你的背包中没有足够的物品",
+  "notEnouhtMoney": "§c你没有足够的钱",
+  "notEnouhtPlace": "§c你的背包已满",
+  "notItems": "§c你的背包里没有此物品",
+  "and": "和",
+  "sellHandAll": "§a已卖出 §6%item% §a赚取了 §6%price%§a%currency%.",
+  "sellHandAllItem": "§ax§e%amount% §2%item%§a",
+  "sellHandEmpty": "§c无法找到要出售的物品",
+  "sellHandAir": "§c你不能出售空气",
+  "boostError": "§c无法上架该商品，该商品已被上架",
+  "boostSuccess": "§a已将物品 §6%item%§a 上架",
+  "boostBroadcast": "§a物品§2%item% §a被上架 §2%boosttype% §a在时间 §2%timer% §a乘 §2%modifier% §a的时候",
+  "boostBuy": "购买",
+  "boostSell": "出售",
+  "boostItemSell": "§7§m%defaultPrice%%currency%§b » §a§l%newPrice%%currency%",
+  "boostItemBuy": "§7§m%defaultPrice%%currency%§b » §a§l%newPrice%%currency%",
+  "boostErrorFound": "§c物品 §6%item%§c 不允许被上架",
+  "boostStopSuccess": "§a已停止上架物品 §6%item%§a.",
+  "boostEmpty": "§c没有商品被上架",
+  "boostShow": "§a上架 §2%type% §a的物品 §2%item% §awhile§6 %timer% §a乘 §2%modifier% §a.",
+  "configAddItemError": "§c物品 §6%item% §c已被上架",
+  "configAddItemErrorCategory": "§c类型选择中不允许有待出售的物品",
+  "configAddItemSuccess": "§a已将 §6%item% §a添加到 §6%category%§a.",
+  "configRemoveItemSuccess": "§a已将物品 §6%item% §a从 §6%category%§a 中删除",
+  "configRemoveItemError": "§c商店中没有上架物品 §6%item%§c",
+  "configEditError": "§c无法找到该物品",
+  "configEditSuccess": "§a已修改物品 §6%item% §a的价格 §6%type% 为 §6%price% §a元",
+  "displayItemLore": [
+    "§f» §2购买价格§7: §a%buyPrice%%currency%",
+    "§f» §2出售价格§7: §a%sellPrice%%currency%",
+    "%boostinfo%",
+    "§f» §7左键购买",
+    "§f» §7点击滚轮出售所有商品",
+    "§f» §7右键出售"
+  ],
+  "displayItemLoreBoost": [
+    "",
+    "§f» §7上架的 §ax%modifier% §7!",
+    "§f» §7§2%ending% 的上架取消",
+    ""
+  ],
+  "second": "秒",
+  "minute": "分享",
+  "hour": "小时",
+  "day": "天",
+  "currencyVault": "$",
+  "currencyPlayerPoint": "£",
+  "backButton": {
+    "name": "§c返回",
+    "item": 399,
+    "data": 0,
+    "lore": null
+  },
+  "nextButton": {
+    "name": "§e下一页",
+    "item": 262,
+    "data": 0,
+    "lore": null
+  },
+  "previousButton": {
+    "name": "§c上一页",
+    "item": 262,
+    "data": 0,
+    "lore": null
+  },
+  "buyButton": {
+    "name": "§a购买",
+    "item": 160,
+    "data": 13,
+    "lore": null
+  },
+  "sellButton": {
+    "name": "§a出售",
+    "item": 160,
+    "data": 13,
+    "lore": null
+  },
+  "backBuyButton": {
+    "name": "§c返回",
+    "item": 160,
+    "data": 14,
+    "lore": null
+  },
+  "resetItemButton": {
+    "name": "§c设置为1",
+    "item": 160,
+    "data": 14,
+    "lore": null
+  },
+  "removeTenItemButton": {
+    "name": "§c减少10个",
+    "item": 160,
+    "data": 1,
+    "lore": null
+  },
+  "removeOneItemButton": {
+    "name": "§c减少1个",
+    "item": 160,
+    "data": 4,
+    "lore": null
+  },
+  "addOneItemButton": {
+    "name": "§a增加1个",
+    "item": 160,
+    "data": 4,
+    "lore": null
+  },
+  "addTenItemButton": {
+    "name": "§a增加10个",
+    "item": 160,
+    "data": 5,
+    "lore": null
+  },
+  "maxItemButton": {
+    "name": "§a设置为 %max%",
+    "item": 160,
+    "data": 13,
+    "lore": null
+  },
+  "confirmButton": {
+    "name": "§a确定",
+    "item": 160,
+    "data": 13,
+    "lore": null
+  }
+}
